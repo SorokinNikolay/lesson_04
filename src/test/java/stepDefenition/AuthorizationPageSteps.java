@@ -1,13 +1,9 @@
 package stepDefenition;
 
 import com.codeborne.selenide.Selenide;
-import com.codeborne.selenide.WebDriverRunner;
 import io.cucumber.java.ru.Дано;
 import io.cucumber.java.ru.Допустим;
 import io.cucumber.java.ru.И;
-import org.junit.jupiter.api.BeforeAll;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 import pageObject.AuthorizationPage;
 
 import static com.codeborne.selenide.Selenide.page;

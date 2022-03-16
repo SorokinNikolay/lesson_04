@@ -5,8 +5,6 @@ import io.cucumber.java.ru.И;
 import io.cucumber.java.ru.Также;
 import pageObject.TaskPage;
 
-import java.util.Locale;
-
 import static pageObject.TaskPage.*;
 
 import static com.codeborne.selenide.Selenide.page;
